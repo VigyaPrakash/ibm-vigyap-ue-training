@@ -222,11 +222,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "teaser",
-    "fields": [
-      "... what fields will be available in Universal Editor ..."
-    ]
   }
 ]
