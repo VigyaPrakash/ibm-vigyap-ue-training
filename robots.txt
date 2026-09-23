@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--ibm-vigyap-ue-training--vigyaprakash.aem.live/sitemap.xml
